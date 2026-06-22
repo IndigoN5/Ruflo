@@ -49,7 +49,7 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 
 Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) — Montgomery AL sits in a non-Democrat-leaning state but has a Democrat-led city government, which is the actual targeting criterion. Alabama mayor's-office party affiliation should still be confirmed against a current source before outreach rather than assumed from memory.
 
-**Tentative lead — City of South Fulton: a council member, surname "Rodney."** Not yet confirmed as a usable named contact — full name and confirmation still needed. **City of Atlanta: no contact identified yet** — both cities on the relationship track currently lack a confirmed named contact.
+**Tentative lead — City of South Fulton: a council member, surname "Rodney."** Not yet confirmed as a usable named contact — full name and confirmation still needed. **City of Atlanta: no contact identified yet** — both cities on the relationship track currently lack a confirmed named contact. **Confirmed: Montgomery Public School System is the only verified contract in this entire picture — South Fulton and Atlanta have no contract, only relationship-track leads.**
 
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.

@@ -65,10 +65,10 @@ Next actions:
 
 ## Initiative 3 — GHL (sales engine)
 
-Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **Blocker, now clarified: this is a contested revenue-share dispute, not a simple access-recovery task.** The third party holding the account wants 20% of all sales the operator makes through it. The operator's counter-position: 10% on custom product brought to be sold on GHL, since the underlying NuvaBase/TLRW product is his own — not 20% on everything. Access cannot currently be obtained ("can't get access back at any time") under the third party's terms. This is a negotiation/ownership question, not an IT task — it needs a resolved position (accept her 20%, hold at 10%, walk and stand up a new GHL account, or some other split) before "get access" can even be attempted.
+Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **Blocker, now clarified: this is a contested revenue-share dispute, not a simple access-recovery task.** The third party holding the account wants 20% of all sales the operator makes through it. **Operator's position, confirmed and held firm: 10% on custom product sold through GHL only, 0% on NuvaBase/TLRW sales** — NuvaBase/TLRW is entirely the operator's own product and isn't subject to her cut at all. Access cannot currently be obtained ("can't get access back at any time") under her terms. This is a negotiation/ownership question, not an IT task — the position is set, what's still open is whether she accepts 10%/custom-only or the operator has to walk and stand up a new account instead.
 
 Concrete build order (this is infrastructure work, not strategy — sequence it so each step is usable on its own):
-0. **Resolve the revenue-share dispute (or decide to walk)** — decide the operator's real floor/ceiling on the split, and whether a fresh GHL account is a viable fallback if no agreement is reached. Nothing below can start without this.
+0. **Present the 10%/custom-product-only position to her, or walk and stand up a new account if she won't accept it.** Nothing below can start without one of these two outcomes.
 1. **Account hygiene** — confirm sub-account/snapshot setup, business profile, domain/email sending identity (this is almost certainly still default since "only the name was put on it").
 2. **CRM pipeline** — one pipeline modeling the actual sales motion for governance consulting (e.g. stages: Identified → Contacted → Discovery Call → Proposal → Pilot → Client).
 3. **Outreach/lead-gen** — sequences targeting the Initiative 2 target list once it exists; don't build outreach automation before the list and buyer persona exist, or it'll automate the wrong message at scale.
@@ -93,7 +93,7 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. **Resolve the GHL revenue-share dispute (20% demanded vs. 10% offered), or decide to walk and stand up a fresh account** — hard blocker on all of Initiative 3; nothing else there can start until this is settled one way or the other.
+1. **Present the held position (10% on custom product only, 0% on NuvaBase/TLRW) to whoever holds the GHL account; walk and stand up a fresh account if she won't accept it** — hard blocker on all of Initiative 3; nothing else there can start until one of these two outcomes happens.
 2. **Confirm the South Fulton council member's full name (tentative surname "Rodney"), and find a contact at City of Atlanta** — both still open.
 3. Convert the Montgomery Public School System relationship (confirmed separate from NuvaBase/TLRW) into an actual introduction/pitch into the city or school system.
 4. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, including rough pricing for both stages (currently undefined), framed as "govern the AI you already run."

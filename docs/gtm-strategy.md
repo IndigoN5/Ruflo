@@ -45,6 +45,8 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 
 **Market reality, confirmed: this is "govern what you already have," not forward-looking.** Most target cities already have AI deployed (chatbots, case-management systems, etc.) — the pitch is governing existing exposure, not evangelizing future adoption. This is a stronger, more urgent pitch than "get ahead of AI" and should be the headline framing in the offer brief and outreach copy.
 
+**Buyer persona, confirmed: the city manager's office.** That's who can actually sign off on a paid audit — not council members or IT/innovation staff, though either can be a useful path *to* that office. Relationship-track contacts who aren't themselves in the city manager's office (e.g. the South Fulton council lead) should be treated as introducers, not as the buyer.
+
 **Entry path, confirmed: relationships + GHL outreach in parallel, not procurement/RFP.** Two simultaneous tracks:
 - **Relationship track — confirmed cities: City of Atlanta, City of South Fulton, City of Montgomery (AL).** These are the first targets, approached via existing connection rather than cold outreach. Specific contact/role within each city government is the next thing to pin down (see Initiative 2 next actions).
 - **GHL track** — cold/warm outreach via the target list, for cities with no existing relationship (Chicago, NYC, and others not yet confirmed as relationship-track).
@@ -60,8 +62,8 @@ Next actions:
 2. **Decide what the audit demo runs against** — real target-city system vs. generic stand-in — then build/stage it, before the first audit is sold. Decision comes first; nothing to build until it's made.
 3. **Confirm the South Fulton council member's full name and find a contact at City of Atlanta** — both still open.
 4. Convert the Montgomery Public School System relationship into an actual NuvaBase/TLRW introduction or pitch — confirmed separate/unrelated to NuvaBase today, so this is "leverage a warm relationship," not "expand an existing client."
-5. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
-6. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
+5. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others). **The city manager's office is the confirmed buyer persona — prioritize having that office's contact info for each target city.**
+6. South Fulton council member Rodney isn't the buyer himself (council, not city manager's office) — confirm he can route/introduce to the city manager's office rather than treating him as the end buyer.
 
 ## Initiative 3 — GHL (sales engine)
 

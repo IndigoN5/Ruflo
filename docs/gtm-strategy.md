@@ -42,14 +42,16 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 **Market reality, confirmed: this is "govern what you already have," not forward-looking.** Most target cities already have AI deployed (chatbots, case-management systems, etc.) — the pitch is governing existing exposure, not evangelizing future adoption. This is a stronger, more urgent pitch than "get ahead of AI" and should be the headline framing in the offer brief and outreach copy.
 
 **Entry path, confirmed: relationships + GHL outreach in parallel, not procurement/RFP.** Two simultaneous tracks:
-- **Relationship track — confirmed cities: City of Atlanta, City of South Fulton.** These are the first two targets, approached via existing connection rather than cold outreach. Specific contact/role within each city government is the next thing to pin down (see Initiative 2 next actions).
+- **Relationship track — confirmed cities: City of Atlanta, City of South Fulton, City of Montgomery (AL).** These are the first targets, approached via existing connection rather than cold outreach. Specific contact/role within each city government is the next thing to pin down (see Initiative 2 next actions).
 - **GHL track** — cold/warm outreach via the target list, for cities with no existing relationship (Chicago, NYC, and others not yet confirmed as relationship-track).
+
+Note: Montgomery, AL sits in a state that doesn't fit the original "Blue State" framing — Alabama is not a Democrat-leaning state. It does fit the more precise pattern the actual list is tracking: a **Democrat-run city government**, not necessarily a Democrat-run state (Montgomery's mayor, as of last verified information, was a Democrat; worth confirming current officeholder before outreach since this should be checked against a live source, not assumed). Worth deciding explicitly whether "Blue State cities" should be re-labeled as "Democrat-led cities" to avoid this mismatch going forward.
 
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch.
-2. **Pin down the specific contact/role for Atlanta and South Fulton** — name and title of the warm contact (or who can make the introduction) at each, since "the city" isn't a buyer, a person is. This is the single most actionable open item right now.
+2. **Pin down the specific contact/role for Atlanta, South Fulton, and Montgomery** — name and title of the warm contact (or who can make the introduction) at each, since "the city" isn't a buyer, a person is. This is the single most actionable open item right now.
 3. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
-4. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the Atlanta/South Fulton contact should ideally connect you to if they aren't the buyer themselves.
+4. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
 
 ## Initiative 3 — GHL (sales engine)
 
@@ -80,7 +82,7 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. **Pin down the named contact/role at City of Atlanta and City of South Fulton** — relationship track is confirmed for these two cities; the specific person/title is the next gap, and the fastest path to a first deal.
+1. **Pin down the named contact/role at City of Atlanta, City of South Fulton, and City of Montgomery (AL)** — relationship track is confirmed for these three cities; the specific person/title is the next gap, and the fastest path to a first deal.
 2. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, framed as "govern the AI you already run."
 3. Log into GHL and do account hygiene (Initiative 3, step 1) — pure unblocking work, no strategy needed.
 4. Build the GHL-track target list (Initiative 2, step 3) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments.

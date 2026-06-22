@@ -62,8 +62,27 @@ Next actions:
 2. **Decide what the audit demo runs against** — real target-city system vs. generic stand-in — then build/stage it, before the first audit is sold. Decision comes first; nothing to build until it's made.
 3. **Confirm the South Fulton council member's full name and find a contact at City of Atlanta** — both still open.
 4. Convert the Montgomery Public School System relationship into an actual NuvaBase/TLRW introduction or pitch — confirmed separate/unrelated to NuvaBase today, so this is "leverage a warm relationship," not "expand an existing client."
-5. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others). **The city manager's office is the confirmed buyer persona — prioritize having that office's contact info for each target city.**
+5. ~~Build a target list for the GHL track~~ — **done, see table below.** Next step is getting named contacts at the city-manager-office-equivalent for the top-ranked cities.
 6. South Fulton council member Rodney isn't the buyer himself (council, not city manager's office) — confirm he can route/introduce to the city manager's office rather than treating him as the end buyer.
+
+### GHL-track target list (research-agent output, sourced)
+
+Excludes Atlanta, South Fulton, Montgomery AL (already on the relationship track). Ranked by population + confirmed/reported AI deployment. **Caveat, flagged not smoothed over: Detroit, Cleveland, and Richmond have legally nonpartisan mayoral elections** — "Democrat-led" there means the officeholder's personal party registration/affiliation, not a partisan city-government structure like Atlanta or Chicago. Worth a decision on whether nonpartisan-but-Dem-affiliated cities count for this vertical before they're loaded into GHL outreach.
+
+| Rank | City | State | Pop. (approx) | Dem-led basis | Known AI deployment | Buyer-office note |
+|---|---|---|---|---|---|---|
+| 1 | New York City | NY | 8.3M | Mayor Mamdani (D/DSA), sworn in Jan 2026 | **MyCity chatbot — a documented failure.** Gave illegal/dangerous advice, ~$500K cost, shut down Jan 2026 by Mamdani. This is a *publicly documented governance failure*, the strongest pitch on this list. | First Deputy Mayor Dean Fuleihan; Deputy Mayor for Operations Julia Kerson |
+| 2 | Chicago | IL | 2.73M | Mayor Brandon Johnson (D) | Formal "Roadmap for AI"; CTA multilingual chatbot. No confirmed direct city-hall resident chatbot — moderate confidence only. | No city manager (strong-mayor system); Deputy Chief of Staff Penny Smith reported in role. Council/mayor budget conflict ongoing (Dec 2025) — added political complexity. |
+| 3 | Philadelphia | PA | 1.5M+ | Mayor Cherelle Parker (D) | Council held first AI-oversight hearing Oct 2025; officials admitted current safeguards (facial recognition, gunshot detection, drones) are inadequately documented. Strong fit — council itself is on record saying governance is weak. | Managing Director Adam K. Thiel — direct city-manager-equivalent/COO, well documented. |
+| 4 | Washington, D.C. | DC | 702K | Mayor Muriel Bowser (D); Dem-majority council | AI Values Statement/Strategic Plan signed 2024; chatbots reported as "coming," not yet confirmed live — more planning-stage than production. | City Administrator Kevin Donahue — clean buyer-office match. |
+| 5 | Baltimore | MD | ~586K | Mayor Brandon Scott (D) | Formal AI executive order (Mar 2024): bans sensitive-data uploads/AI impersonation, mandates disclosure, created AI advisory committee — a governance *framework* already in place, good retainer-upsell angle. | Chief Administrative Officer Faith Leach; Deputy Mayor of Operations Khalil Zaied. |
+| 6 | Detroit | MI | ~639K | Mayor Mary Sheffield, registered Dem — **but Detroit mayoral races are legally nonpartisan** | "Emily," an AI customer-service agent, live in a pilot (Districts 3–4) as of Dec 2025 — one of the most concrete *operational* deployments on this list. | New COO Winnie Liao (started Feb 2026, oversees 17 depts) — strong target given ops mandate. |
+| 7 | Boston | MA | ~654–674K | Mayor Michelle Wu (D) | Live AI-search tool for city-service Q&A; first US city with a formal gen-AI workforce policy. No incident/failure found — a "doing it right" angle, less urgent than NYC/Philly. | Chief of Staff Clare Kelly — closest mayor's-office equivalent found; no distinct administrator title surfaced. |
+| 8 | Cleveland | OH | ~365K | Mayor Justin Bibb, Dem-affiliated (~75% confidence) — **nonpartisan race** | AI chatbots for 311 and home-condition surveys floated (Nov 2025); enterprise AI training for 8,000 employees announced but not yet live — mostly planning-stage. | No city-manager-equivalent title surfaced yet — needs follow-up. |
+| 9 | Richmond | VA | ~234K | Mayor Danny Avula, registered Dem — **nonpartisan race** | AI ethics policy (5 principles) released 2025; no specific resident-facing deployment confirmed yet. | No buyer-office title surfaced yet — needs follow-up. |
+| 10 | Newark | NJ | ~317K | Mayor Ras Baraka (D) | **No AI deployment found** in this pass — stated explicitly rather than fabricated. Lowest priority given the deployment gap. | No buyer-office title surfaced yet. |
+
+Not yet researched but flagged for a possible second pass: Pittsburgh (new mayor Corey O'Connor, D, sworn in Jan 2026; no AI-deployment signal found yet, ~300K population).
 
 ## Initiative 3 — GHL (sales engine)
 

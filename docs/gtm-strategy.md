@@ -124,8 +124,8 @@ None of these are built yet — this section is a backlog, not a delivered featu
 1. **Settle GHL terms (10% on custom product only, 0% on NuvaBase/TLRW) with the account holder** — hard blocker on all of Initiative 3; nothing else there can start until terms are settled.
 2. **Confirm the South Fulton council member's full name (tentative surname "Rodney"), and find a contact at City of Atlanta** — both still open.
 3. Convert the Montgomery Public School System relationship (confirmed separate from NuvaBase/TLRW) into an actual introduction/pitch into the city or school system.
-4. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, including rough pricing for both stages (currently undefined), framed as "govern the AI you already run."
-5. Build the GHL-track target list (Initiative 2, step 4) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments — sequenced after step 1 since it feeds into GHL outreach.
+4. ~~Write the two-stage municipal offer brief~~ — **done**, see `docs/municipal-offer-brief.md`. Pricing for both stages still open.
+5. ~~Build the GHL-track target list~~ — **done**, 15 cities ranked, see table above and `docs/GHL Target List - Outline.txt` for the Google Docs version.
 6. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
 7. **Sequenced: small business is next after municipal** (school districts deprioritized — sales/procurement cycles run too long there despite the Montgomery relationship). Operator also flagged "potentially consulting" alongside small business — worth clarifying in a future round whether that means a distinct consulting-vertical offer or is the same Governance Process Consulting motion generalized beyond cities.
 

@@ -13,7 +13,7 @@ Working strategy document, written as a business development / GTM lead would fr
 
 Confirmed relationship: **NuvaBase/TLRW is a universal AI-governance product, not a city-specific one.** Cities/municipalities are one vertical among several named so far — school districts, small businesses, lawyers, medical. "Governance Process Consulting" for Democrat-led cities east of the Mississippi is the **current go-to-market vertical**, not the boundary of the product. GHL sells; NuvaBase/TLRW is the product sold, into whichever vertical is being pursued at a given time.
 
-**Existing asset, not a target — Montgomery Public School System.** There is already a small active contract with the Montgomery (AL) public school system. This is the most concrete thing in the entire picture: not a lead, not a relationship, an existing contract — and it's also the first real foothold in the **school districts** vertical (see Initiative 1), ahead of the municipal vertical in that one specific sense. Open question: does this existing contract currently involve NuvaBase/TLRW at all, or is it a separate, unrelated engagement that simply happens to give a path into Montgomery? That distinction changes whether this is "first paying NuvaBase client" or "warm relationship to leverage for an introduction."
+**Existing asset, not a target — Montgomery Public School System.** There is already a small active contract with the Montgomery (AL) public school system. **Confirmed: this contract is separate/unrelated to NuvaBase/TLRW** — it is not a NuvaBase engagement, it's a warm relationship into Montgomery that can be leveraged for an introduction, not a "first paying client." It still gives a real foothold in the **school districts** vertical (see Initiative 1) in the sense that it's an existing relationship to convert, ahead of the municipal vertical in that one specific sense — but the conversion (pitching NuvaBase/TLRW into that relationship) hasn't happened yet.
 
 ## Initiative 1 — NuvaBase / TLRW (the product)
 
@@ -49,10 +49,12 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 
 Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) — Montgomery AL sits in a non-Democrat-leaning state but has a Democrat-led city government, which is the actual targeting criterion. Alabama mayor's-office party affiliation should still be confirmed against a current source before outreach rather than assumed from memory.
 
+**Confirmed contact — City of South Fulton: a sitting council member.** Specific name not yet given; role is confirmed as council member. **City of Atlanta: no contact identified yet** — still open, and now the more pressing gap of the two relationship-track cities since South Fulton has a path in.
+
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
-2. **Pin down the specific contact/role at Atlanta and South Fulton** — still open; no name/title identified yet at either. (Montgomery's path-in is different — see the existing school-system contract noted above — so it's ahead of the other two in a different way.)
-3. Clarify the Montgomery Public School System contract: is NuvaBase/TLRW already part of that engagement, or is it a separate contract that simply gives a relationship into Montgomery generally?
+2. **Get the South Fulton council member's name logged, and find a contact at City of Atlanta** — Atlanta is the more open gap of the two now.
+3. Convert the Montgomery Public School System relationship into an actual NuvaBase/TLRW introduction or pitch — confirmed separate/unrelated to NuvaBase today, so this is "leverage a warm relationship," not "expand an existing client."
 4. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
 5. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
 
@@ -87,8 +89,8 @@ None of these are built yet — this section is a backlog, not a delivered featu
 ## Immediate next actions, in order
 
 1. **Get GHL account access from whoever currently holds it** — hard blocker on all of Initiative 3; nothing else there can start until this is done.
-2. Clarify the Montgomery Public School System contract's relationship to NuvaBase/TLRW (existing client vs. unrelated relationship) — changes how it should be tracked and leveraged.
-3. **Pin down the named contact/role at City of Atlanta and City of South Fulton** — still open at both.
+2. **Get the South Fulton council member's name, and find a contact at City of Atlanta** — South Fulton has a confirmed council-member contact (name TBD); Atlanta has none yet.
+3. Convert the Montgomery Public School System relationship (confirmed separate from NuvaBase/TLRW) into an actual introduction/pitch into the city or school system.
 4. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, including rough pricing for both stages (currently undefined), framed as "govern the AI you already run."
 5. Build the GHL-track target list (Initiative 2, step 4) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments — sequenced after step 1 since it feeds into GHL outreach.
 6. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.

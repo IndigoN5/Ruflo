@@ -16,8 +16,8 @@ TLRW is LLM-agnostic — it's a preprocessing discipline, not tied to any one mo
 NuvaBase/TLRW is a **universal, vertical-agnostic AI-governance product** — not limited to any one market. Verticals named so far: cities/municipalities (current GTM focus), school districts, small businesses, lawyers, medical.
 
 Adjacent business threads tracked in `docs/gtm-strategy.md`:
-- **Governance Process Consulting** — the municipal vertical of NuvaBase/TLRW. Sold to Democrat-run ("Blue State") city governments, currently scoped east of the Mississippi (e.g. South Fulton GA, Atlanta, Chicago, NYC). It is NuvaBase/TLRW applied to cities, not a separate product.
-- **Go High Level (GHL)** — the CRM / sales-funnel / outreach engine for selling the consulting offer. Treated as a separate workstream from the NuvaBase/TLRW product build.
+- **Governance Process Consulting** — the municipal vertical of NuvaBase/TLRW. Sold to **Democrat-led city governments** (the targeting criterion is the city government's party, not the state's — e.g. Montgomery AL sits in a non-Democrat-leaning state but reportedly has a Democrat-led city government), currently scoped east of the Mississippi (e.g. South Fulton GA, Atlanta, Montgomery AL, Chicago, NYC). It is NuvaBase/TLRW applied to cities, not a separate product.
+- **Go High Level (GHL)** — the CRM / sales-funnel / outreach engine for selling the consulting offer. Account exists but is currently held by a third party — access has to be recovered before any setup work starts. Treated as a separate workstream from the NuvaBase/TLRW product build.
 
 ## Operating rules for this agent, in this repo
 
@@ -31,4 +31,5 @@ Adjacent business threads tracked in `docs/gtm-strategy.md`:
 ## Known open items (see docs/gtm-strategy.md for detail)
 
 - Per-vertical offer briefs beyond the municipal one (school districts, small business, legal, medical) are not yet sequenced.
-- GHL account exists but is unconfigured (no CRM pipeline, funnel, or outreach automation set up yet).
+- GHL account exists but is unconfigured (no CRM pipeline, funnel, or outreach automation set up yet) — and a third party currently holds access, which is the harder blocker.
+- An existing small contract with Montgomery Public School System is the most concrete asset in the picture — whether it already involves NuvaBase/TLRW, or is a separate engagement that just gives a relationship into Montgomery, is unresolved.

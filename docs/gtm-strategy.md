@@ -8,10 +8,12 @@ Working strategy document, written as a business development / GTM lead would fr
 |---|---|---|
 | **NuvaBase** | Cognitive AI governance company — "Antivirus for AI Agents." Governs the thinking that produces an AI agent's input, before the agent acts, not just the output. | Defined (see brief); not yet running/sold |
 | **TLRW** (Think / Learn / Reflect / Write, R×3 mandatory) | The proprietary, LLM-agnostic methodology/engine underneath NuvaBase | Defined; client-facing |
-| **Governance Process Consulting (municipal vertical)** | NuvaBase/TLRW's AI-governance product, applied to "Blue State" city governments (Democrat-run), scope currently east of the Mississippi — e.g. South Fulton GA, Atlanta, Chicago, NYC. First of several planned verticals (school districts, small business, legal, medical). | Not yet packaged or sold |
-| **GHL (Go High Level)** | CRM + sales funnel + outreach/lead-gen engine for selling the consulting service | Account exists, named, unconfigured for ~9 months |
+| **Governance Process Consulting (municipal vertical)** | NuvaBase/TLRW's AI-governance product, applied to Democrat-led city governments, scope currently east of the Mississippi — e.g. South Fulton GA, Atlanta, Montgomery AL, Chicago, NYC. First of several planned verticals (school districts, small business, legal, medical). | Not yet packaged or sold |
+| **GHL (Go High Level)** | CRM + sales funnel + outreach/lead-gen engine for selling the consulting service | Account exists, named, unconfigured for ~9 months; **currently held by a third party** |
 
-Confirmed relationship: **NuvaBase/TLRW is a universal AI-governance product, not a city-specific one.** Cities/municipalities are one vertical among several named so far — school districts, small businesses, lawyers, medical. "Governance Process Consulting" for Blue-State cities east of the Mississippi is the **current go-to-market vertical**, not the boundary of the product. GHL sells; NuvaBase/TLRW is the product sold, into whichever vertical is being pursued at a given time.
+Confirmed relationship: **NuvaBase/TLRW is a universal AI-governance product, not a city-specific one.** Cities/municipalities are one vertical among several named so far — school districts, small businesses, lawyers, medical. "Governance Process Consulting" for Democrat-led cities east of the Mississippi is the **current go-to-market vertical**, not the boundary of the product. GHL sells; NuvaBase/TLRW is the product sold, into whichever vertical is being pursued at a given time.
+
+**Existing asset, not a target — Montgomery Public School System.** There is already a small active contract with the Montgomery (AL) public school system. This is the most concrete thing in the entire picture: not a lead, not a relationship, an existing contract — and it's also the first real foothold in the **school districts** vertical (see Initiative 1), ahead of the municipal vertical in that one specific sense. Open question: does this existing contract currently involve NuvaBase/TLRW at all, or is it a separate, unrelated engagement that simply happens to give a path into Montgomery? That distinction changes whether this is "first paying NuvaBase client" or "warm relationship to leverage for an introduction."
 
 ## Initiative 1 — NuvaBase / TLRW (the product)
 
@@ -33,7 +35,7 @@ Per the operator's standing rule (see `/CLAUDE.md`): nothing here gets built/con
 
 ## Initiative 2 — Governance Process Consulting (municipal vertical of NuvaBase/TLRW)
 
-Confirmed: this is NuvaBase/TLRW's AI-governance product sold into the municipal vertical specifically — not a separate, NuvaBase-independent offer. Target market: city governments under Democratic administration, scoped to east of the Mississippi for now. Named examples: South Fulton GA, Atlanta, Chicago, New York.
+Confirmed: this is NuvaBase/TLRW's AI-governance product sold into the municipal vertical specifically — not a separate, NuvaBase-independent offer. Target market: **Democrat-led city governments**, scoped to east of the Mississippi for now (renamed from "Blue State cities" — the real criterion is the city government's party, not the state's). Named examples: South Fulton GA, Atlanta, Montgomery AL, Chicago, New York.
 
 Note for accuracy: South Fulton is its own incorporated city in Fulton County, Georgia (not a neighborhood/district "of Atlanta") — worth using the correct framing in outreach material since municipal buyers will notice.
 
@@ -45,25 +47,27 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 - **Relationship track — confirmed cities: City of Atlanta, City of South Fulton, City of Montgomery (AL).** These are the first targets, approached via existing connection rather than cold outreach. Specific contact/role within each city government is the next thing to pin down (see Initiative 2 next actions).
 - **GHL track** — cold/warm outreach via the target list, for cities with no existing relationship (Chicago, NYC, and others not yet confirmed as relationship-track).
 
-Note: Montgomery, AL sits in a state that doesn't fit the original "Blue State" framing — Alabama is not a Democrat-leaning state. It does fit the more precise pattern the actual list is tracking: a **Democrat-run city government**, not necessarily a Democrat-run state (Montgomery's mayor, as of last verified information, was a Democrat; worth confirming current officeholder before outreach since this should be checked against a live source, not assumed). Worth deciding explicitly whether "Blue State cities" should be re-labeled as "Democrat-led cities" to avoid this mismatch going forward.
+Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) — Montgomery AL sits in a non-Democrat-leaning state but has a Democrat-led city government, which is the actual targeting criterion. Alabama mayor's-office party affiliation should still be confirmed against a current source before outreach rather than assumed from memory.
 
 Next actions:
-1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch.
-2. **Pin down the specific contact/role for Atlanta, South Fulton, and Montgomery** — name and title of the warm contact (or who can make the introduction) at each, since "the city" isn't a buyer, a person is. This is the single most actionable open item right now.
-3. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
-4. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
+1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
+2. **Pin down the specific contact/role at Atlanta and South Fulton** — still open; no name/title identified yet at either. (Montgomery's path-in is different — see the existing school-system contract noted above — so it's ahead of the other two in a different way.)
+3. Clarify the Montgomery Public School System contract: is NuvaBase/TLRW already part of that engagement, or is it a separate contract that simply gives a relationship into Montgomery generally?
+4. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
+5. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
 
 ## Initiative 3 — GHL (sales engine)
 
-Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged.
+Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **New blocker, confirmed: the account is currently held by a third party** — access has to be obtained through them before any setup work starts. This is now the actual first step, ahead of account hygiene.
 
 Concrete build order (this is infrastructure work, not strategy — sequence it so each step is usable on its own):
+0. **Get access** — recover/obtain login access from whoever currently holds the account. Nothing below can start without this.
 1. **Account hygiene** — confirm sub-account/snapshot setup, business profile, domain/email sending identity (this is almost certainly still default since "only the name was put on it").
 2. **CRM pipeline** — one pipeline modeling the actual sales motion for governance consulting (e.g. stages: Identified → Contacted → Discovery Call → Proposal → Pilot → Client).
 3. **Outreach/lead-gen** — sequences targeting the Initiative 2 target list once it exists; don't build outreach automation before the list and buyer persona exist, or it'll automate the wrong message at scale.
 4. **Funnel** — a landing page + booking flow for inbound (e.g. a city official who heard about the consulting and wants a call), distinct from the outbound sequences in step 3.
 
-GHL work can start **today**, independent of NuvaBase/TLRW packaging being finished — it's selling a service offer (Initiative 2), and that offer can exist in advisory form before the product is fully built out.
+GHL work depends on step 0 (getting access) before anything else here can start — that's now a harder blocker than NuvaBase/TLRW packaging, which can proceed in parallel.
 
 ## "Network" — left open, working interpretation
 
@@ -82,11 +86,12 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. **Pin down the named contact/role at City of Atlanta, City of South Fulton, and City of Montgomery (AL)** — relationship track is confirmed for these three cities; the specific person/title is the next gap, and the fastest path to a first deal.
-2. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, framed as "govern the AI you already run."
-3. Log into GHL and do account hygiene (Initiative 3, step 1) — pure unblocking work, no strategy needed.
-4. Build the GHL-track target list (Initiative 2, step 3) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments.
-5. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
-6. Once the municipal vertical has a working offer brief, sequence which of school districts / small business / legal / medical gets a vertical-specific brief next.
+1. **Get GHL account access from whoever currently holds it** — hard blocker on all of Initiative 3; nothing else there can start until this is done.
+2. Clarify the Montgomery Public School System contract's relationship to NuvaBase/TLRW (existing client vs. unrelated relationship) — changes how it should be tracked and leveraged.
+3. **Pin down the named contact/role at City of Atlanta and City of South Fulton** — still open at both.
+4. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, including rough pricing for both stages (currently undefined), framed as "govern the AI you already run."
+5. Build the GHL-track target list (Initiative 2, step 4) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments — sequenced after step 1 since it feeds into GHL outreach.
+6. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
+7. Once the municipal vertical has a working offer brief, sequence which of school districts / small business / legal / medical gets a vertical-specific brief next — note Montgomery Public School System already gives the school-district vertical a head start here.
 
-Steps 1, 2, and 3 can happen in parallel; they don't depend on each other.
+Steps 1, 2, 3, and 4 can happen in parallel; they don't depend on each other.

@@ -9,7 +9,7 @@ Working strategy document, written as a business development / GTM lead would fr
 | **NuvaBase** | Cognitive AI governance company — "Antivirus for AI Agents." Governs the thinking that produces an AI agent's input, before the agent acts, not just the output. | Defined (see brief); not yet running/sold |
 | **TLRW** (Think / Learn / Reflect / Write, R×3 mandatory) | The proprietary, LLM-agnostic methodology/engine underneath NuvaBase | Defined; client-facing |
 | **Governance Process Consulting (municipal vertical)** | NuvaBase/TLRW's AI-governance product, applied to Democrat-led city governments, scope currently east of the Mississippi — e.g. South Fulton GA, Atlanta, Montgomery AL, Chicago, NYC. First of several planned verticals (school districts, small business, legal, medical). | Not yet packaged or sold |
-| **GHL (Go High Level)** | CRM + sales funnel + outreach/lead-gen engine for selling the consulting service | Account exists, named, unconfigured for ~9 months; **currently held by a third party** |
+| **GHL (Go High Level)** | CRM + sales funnel + outreach/lead-gen engine for selling the consulting service | Account exists, named, unconfigured for ~9 months; **held by a third party demanding 20% of all sales — contested, unresolved** |
 
 Confirmed relationship: **NuvaBase/TLRW is a universal AI-governance product, not a city-specific one.** Cities/municipalities are one vertical among several named so far — school districts, small businesses, lawyers, medical. "Governance Process Consulting" for Democrat-led cities east of the Mississippi is the **current go-to-market vertical**, not the boundary of the product. GHL sells; NuvaBase/TLRW is the product sold, into whichever vertical is being pursued at a given time.
 
@@ -60,16 +60,16 @@ Next actions:
 
 ## Initiative 3 — GHL (sales engine)
 
-Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **New blocker, confirmed: the account is currently held by a third party** — access has to be obtained through them before any setup work starts. This is now the actual first step, ahead of account hygiene.
+Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **Blocker, now clarified: this is a contested revenue-share dispute, not a simple access-recovery task.** The third party holding the account wants 20% of all sales the operator makes through it. The operator's counter-position: 10% on custom product brought to be sold on GHL, since the underlying NuvaBase/TLRW product is his own — not 20% on everything. Access cannot currently be obtained ("can't get access back at any time") under the third party's terms. This is a negotiation/ownership question, not an IT task — it needs a resolved position (accept her 20%, hold at 10%, walk and stand up a new GHL account, or some other split) before "get access" can even be attempted.
 
 Concrete build order (this is infrastructure work, not strategy — sequence it so each step is usable on its own):
-0. **Get access** — recover/obtain login access from whoever currently holds the account. Nothing below can start without this.
+0. **Resolve the revenue-share dispute (or decide to walk)** — decide the operator's real floor/ceiling on the split, and whether a fresh GHL account is a viable fallback if no agreement is reached. Nothing below can start without this.
 1. **Account hygiene** — confirm sub-account/snapshot setup, business profile, domain/email sending identity (this is almost certainly still default since "only the name was put on it").
 2. **CRM pipeline** — one pipeline modeling the actual sales motion for governance consulting (e.g. stages: Identified → Contacted → Discovery Call → Proposal → Pilot → Client).
 3. **Outreach/lead-gen** — sequences targeting the Initiative 2 target list once it exists; don't build outreach automation before the list and buyer persona exist, or it'll automate the wrong message at scale.
 4. **Funnel** — a landing page + booking flow for inbound (e.g. a city official who heard about the consulting and wants a call), distinct from the outbound sequences in step 3.
 
-GHL work depends on step 0 (getting access) before anything else here can start — that's now a harder blocker than NuvaBase/TLRW packaging, which can proceed in parallel.
+GHL work depends on step 0 (resolving the revenue-share dispute, or walking away) before anything else here can start — that's now a harder blocker than NuvaBase/TLRW packaging, which can proceed in parallel. Note: pricing for the audit/retainer (Initiative 2) is unrelated to this dispute, which is about the *channel's* cut, not the *product's* price — both are independently undefined right now, don't conflate them.
 
 ## "Network" — left open, working interpretation
 
@@ -88,7 +88,7 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. **Get GHL account access from whoever currently holds it** — hard blocker on all of Initiative 3; nothing else there can start until this is done.
+1. **Resolve the GHL revenue-share dispute (20% demanded vs. 10% offered), or decide to walk and stand up a fresh account** — hard blocker on all of Initiative 3; nothing else there can start until this is settled one way or the other.
 2. **Confirm the South Fulton council member's full name (tentative surname "Rodney"), and find a contact at City of Atlanta** — both still open.
 3. Convert the Montgomery Public School System relationship (confirmed separate from NuvaBase/TLRW) into an actual introduction/pitch into the city or school system.
 4. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, including rough pricing for both stages (currently undefined), framed as "govern the AI you already run."

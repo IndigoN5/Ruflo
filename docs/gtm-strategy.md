@@ -42,14 +42,14 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 **Market reality, confirmed: this is "govern what you already have," not forward-looking.** Most target cities already have AI deployed (chatbots, case-management systems, etc.) — the pitch is governing existing exposure, not evangelizing future adoption. This is a stronger, more urgent pitch than "get ahead of AI" and should be the headline framing in the offer brief and outreach copy.
 
 **Entry path, confirmed: relationships + GHL outreach in parallel, not procurement/RFP.** Two simultaneous tracks:
-- **Relationship track** — existing personal/political connections into Democrat-run city governments. Needs its own action: list out which target cities (South Fulton, Atlanta, Chicago, NYC, etc.) already have a known contact or warm path in, since this determines who gets approached first.
-- **GHL track** — cold/warm outreach via the target list, for cities with no existing relationship.
+- **Relationship track — confirmed cities: City of Atlanta, City of South Fulton.** These are the first two targets, approached via existing connection rather than cold outreach. Specific contact/role within each city government is the next thing to pin down (see Initiative 2 next actions).
+- **GHL track** — cold/warm outreach via the target list, for cities with no existing relationship (Chicago, NYC, and others not yet confirmed as relationship-track).
 
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch.
-2. List existing relationships/contacts in target city governments (relationship track) — this is founder knowledge, not research; do this before building the cold-outreach list so warm paths aren't drowned out by GHL automation.
-3. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship.
-4. Identify the actual buyer inside a city government (city manager's office, council staff, IT/innovation department) — "the city" is not a buyer, a person/role is.
+2. **Pin down the specific contact/role for Atlanta and South Fulton** — name and title of the warm contact (or who can make the introduction) at each, since "the city" isn't a buyer, a person is. This is the single most actionable open item right now.
+3. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
+4. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the Atlanta/South Fulton contact should ideally connect you to if they aren't the buyer themselves.
 
 ## Initiative 3 — GHL (sales engine)
 
@@ -80,10 +80,10 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. List existing relationships/contacts in target city governments (relationship track) — pure founder knowledge, fastest path to a first deal.
+1. **Pin down the named contact/role at City of Atlanta and City of South Fulton** — relationship track is confirmed for these two cities; the specific person/title is the next gap, and the fastest path to a first deal.
 2. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, framed as "govern the AI you already run."
 3. Log into GHL and do account hygiene (Initiative 3, step 1) — pure unblocking work, no strategy needed.
-4. Build the GHL-track target list (Initiative 2, step 3) for cities with no existing relationship, prioritized by known AI deployments.
+4. Build the GHL-track target list (Initiative 2, step 3) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments.
 5. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
 6. Once the municipal vertical has a working offer brief, sequence which of school districts / small business / legal / medical gets a vertical-specific brief next.
 

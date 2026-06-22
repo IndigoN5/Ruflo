@@ -37,10 +37,19 @@ Confirmed: this is NuvaBase/TLRW's AI-governance product sold into the municipal
 
 Note for accuracy: South Fulton is its own incorporated city in Fulton County, Georgia (not a neighborhood/district "of Atlanta") — worth using the correct framing in outreach material since municipal buyers will notice.
 
+**Engagement model, confirmed: staged.** A city's first purchase is a paid audit/assessment (defined scope, defined end), with the standing governance layer (NuvaBase/TLRW wired into the city's actual AI systems on an ongoing basis) as the retainer/upsell that follows if the audit lands. The offer brief (Initiative 1, step 1) needs both stages written, not just the first.
+
+**Market reality, confirmed: this is "govern what you already have," not forward-looking.** Most target cities already have AI deployed (chatbots, case-management systems, etc.) — the pitch is governing existing exposure, not evangelizing future adoption. This is a stronger, more urgent pitch than "get ahead of AI" and should be the headline framing in the offer brief and outreach copy.
+
+**Entry path, confirmed: relationships + GHL outreach in parallel, not procurement/RFP.** Two simultaneous tracks:
+- **Relationship track** — existing personal/political connections into Democrat-run city governments. Needs its own action: list out which target cities (South Fulton, Atlanta, Chicago, NYC, etc.) already have a known contact or warm path in, since this determines who gets approached first.
+- **GHL track** — cold/warm outreach via the target list, for cities with no existing relationship.
+
 Next actions:
-1. Define the municipal offer brief (Initiative 1, step 1) — governance consulting can be sold as advisory/facilitation even before NuvaBase/TLRW is fully productized — the methodology can be delivered manually first, productized later.
-2. Build a target list: city governments (Democrat-led) east of the Mississippi, prioritized by population size, known openness to outside governance consulting, and — specifically relevant now that the product is AI-governance — any signal the city is already deploying or evaluating AI systems (chatbots, case-management AI, etc.).
-3. Identify the actual buyer inside a city government (city manager's office, council staff, IT/innovation department) — "the city" is not a buyer, a person/role is.
+1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch.
+2. List existing relationships/contacts in target city governments (relationship track) — this is founder knowledge, not research; do this before building the cold-outreach list so warm paths aren't drowned out by GHL automation.
+3. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship.
+4. Identify the actual buyer inside a city government (city manager's office, council staff, IT/innovation department) — "the city" is not a buyer, a person/role is.
 
 ## Initiative 3 — GHL (sales engine)
 
@@ -71,10 +80,11 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. Write the one-page municipal offer brief for NuvaBase/TLRW (Initiative 1/2) — the active GTM vertical, sellable today.
-2. Log into GHL and do account hygiene (Initiative 3, step 1) — pure unblocking work, no strategy needed.
-3. Build the target list (Initiative 2, step 2) using the buyer criteria above.
-4. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
-5. Once the municipal vertical has a working offer brief, sequence which of school districts / small business / legal / medical gets a vertical-specific brief next.
+1. List existing relationships/contacts in target city governments (relationship track) — pure founder knowledge, fastest path to a first deal.
+2. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, framed as "govern the AI you already run."
+3. Log into GHL and do account hygiene (Initiative 3, step 1) — pure unblocking work, no strategy needed.
+4. Build the GHL-track target list (Initiative 2, step 3) for cities with no existing relationship, prioritized by known AI deployments.
+5. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
+6. Once the municipal vertical has a working offer brief, sequence which of school districts / small business / legal / medical gets a vertical-specific brief next.
 
-Steps 1–3 can happen in parallel; they don't depend on each other.
+Steps 1, 2, and 3 can happen in parallel; they don't depend on each other.

@@ -41,7 +41,7 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 
 **Engagement model, confirmed: staged.** A city's first purchase is a paid audit/assessment (defined scope, defined end), with the standing governance layer (NuvaBase/TLRW wired into the city's actual AI systems on an ongoing basis) as the retainer/upsell that follows if the audit lands. The offer brief (Initiative 1, step 1) needs both stages written, not just the first.
 
-**Audit deliverable, confirmed: written risk report + a live demo.** The audit stage doesn't end with a document alone — it includes a live demonstration of TLRW actually governing one of the city's real AI systems. The demo is what proves the retainer is worth buying, so it has to be built/staged before the first audit is sold (not improvised live against a real city system the first time).
+**Audit deliverable, confirmed: written risk report + a live demo.** The audit stage doesn't end with a document alone — it includes a live demonstration of TLRW actually governing an AI system. The demo is what proves the retainer is worth buying, so it has to be built/staged before the first audit is sold (not improvised live against a real city system the first time). **Open: what the demo runs against — a real target city's live system vs. a generic stand-in built for the purpose — is not yet decided.** This is a prerequisite decision before the demo itself can be built.
 
 **Market reality, confirmed: this is "govern what you already have," not forward-looking.** Most target cities already have AI deployed (chatbots, case-management systems, etc.) — the pitch is governing existing exposure, not evangelizing future adoption. This is a stronger, more urgent pitch than "get ahead of AI" and should be the headline framing in the offer brief and outreach copy.
 
@@ -57,7 +57,7 @@ Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) 
 
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment (report + live demo) → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
-2. **Build/stage the live-demo component of the audit** — needs to exist and be rehearsed against a representative AI system (chatbot, case-management, etc.) before the first audit is sold, since "report + demo" is now the confirmed deliverable.
+2. **Decide what the audit demo runs against** — real target-city system vs. generic stand-in — then build/stage it, before the first audit is sold. Decision comes first; nothing to build until it's made.
 3. **Confirm the South Fulton council member's full name and find a contact at City of Atlanta** — both still open.
 4. Convert the Montgomery Public School System relationship into an actual NuvaBase/TLRW introduction or pitch — confirmed separate/unrelated to NuvaBase today, so this is "leverage a warm relationship," not "expand an existing client."
 5. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).

@@ -51,6 +51,8 @@ Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) 
 
 **Tentative lead — City of South Fulton: a council member, surname "Rodney."** Not yet confirmed as a usable named contact — full name and confirmation still needed. **City of Atlanta: no contact identified yet** — both cities on the relationship track currently lack a confirmed named contact. **Confirmed: Montgomery Public School System is the only verified contract in this entire picture — South Fulton and Atlanta have no contract, only relationship-track leads.**
 
+**Separate opportunity at South Fulton, not part of Governance Process Consulting: a small-business/minority-vendor (MBE) database AI system for vendor management.** South Fulton has expressed interest in this kind of system specifically. The operator has a **60%-complete build already in hand**, currently on the back burner / not a current priority. Confirmed this is **a different product from the "custom product" referenced in the Initiative 3 GHL revenue-share dispute** — two distinct things, don't conflate them. Per the "build only on explicit build" rule, this stays parked (no further work, no resumption of the 60%-complete build) until the operator explicitly revisits it — noted here only so it isn't lost as a real, partially-built asset tied to a real city need.
+
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
 2. **Confirm the South Fulton council member's full name and find a contact at City of Atlanta** — both still open.

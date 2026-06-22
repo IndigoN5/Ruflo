@@ -9,7 +9,7 @@ Working strategy document, written as a business development / GTM lead would fr
 | **NuvaBase** | Cognitive AI governance company — "Antivirus for AI Agents." Governs the thinking that produces an AI agent's input, before the agent acts, not just the output. | Defined (see brief); not yet running/sold |
 | **TLRW** (Think / Learn / Reflect / Write, R×3 mandatory) | The proprietary, LLM-agnostic methodology/engine underneath NuvaBase | Defined; client-facing |
 | **Governance Process Consulting (municipal vertical)** | NuvaBase/TLRW's AI-governance product, applied to Democrat-led city governments, scope currently east of the Mississippi — e.g. South Fulton GA, Atlanta, Montgomery AL, Chicago, NYC. First of several planned verticals (school districts, small business, legal, medical). | Not yet packaged or sold |
-| **GHL (Go High Level)** | CRM + sales funnel + outreach/lead-gen engine for selling the consulting service | Account exists, named, unconfigured for ~9 months; **held by a third party demanding 20% of all sales — contested, unresolved** |
+| **GHL (Go High Level)** | CRM + sales funnel + outreach/lead-gen engine for selling the consulting service | Account exists, named, unconfigured for ~9 months; held by a third party on a revenue-share arrangement — terms still being settled |
 
 Confirmed relationship: **NuvaBase/TLRW is a universal AI-governance product, not a city-specific one.** Cities/municipalities are one vertical among several named so far — school districts, small businesses, lawyers, medical. "Governance Process Consulting" for Democrat-led cities east of the Mississippi is the **current go-to-market vertical**, not the boundary of the product. GHL sells; NuvaBase/TLRW is the product sold, into whichever vertical is being pursued at a given time.
 
@@ -20,15 +20,15 @@ Confirmed relationship: **NuvaBase/TLRW is a universal AI-governance product, no
 NuvaBase/TLRW is defined at the methodology level (see brief) and confirmed as a **universal, vertical-agnostic AI-governance product**. Named verticals, in roughly the order implied so far:
 
 1. **Cities / municipalities** — current GTM focus (Initiative 2 below)
-2. **School districts**
-3. **Small businesses**
+2. **Small businesses** — confirmed next after municipal (see Initiative 2 next actions)
+3. **School districts** — deprioritized; sales/procurement cycles run too long, despite the existing Montgomery relationship
 4. **Lawyers** (legal)
 5. **Medical**
 
 Remaining gap is packaging the universal product into a sellable per-vertical offer:
 
 1. Write a one-page NuvaBase/TLRW offer brief for the *municipal* vertical specifically (what a city client receives — an audit? a standing governance layer wired into whatever AI the city deploys? a one-time engagement?) — this is the one to write first since it's the active GTM vertical.
-2. Treat the other four verticals (school districts, small business, legal, medical) as backlog positioning work — same product, different offer brief per vertical, not yet sequenced.
+2. **Small business is next in line** after municipal — possibly tied to "consulting" more generally per the operator's latest note; this distinction needs a follow-up round. School districts, legal, and medical remain backlog, not yet sequenced relative to each other.
 3. Pilot the municipal offer brief against one real or hypothetical scenario (e.g. a city deploying an AI chatbot/agent for resident services) before it's GTM-ready.
 
 Per the operator's standing rule (see `/CLAUDE.md`): nothing here gets built/constructed beyond planning until explicit "build" is given.
@@ -55,7 +55,7 @@ Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) 
 
 **Tentative lead — City of South Fulton: a council member, surname "Rodney."** Not yet confirmed as a usable named contact — full name and confirmation still needed. **City of Atlanta: no contact identified yet** — both cities on the relationship track currently lack a confirmed named contact. **Confirmed: Montgomery Public School System is the only verified contract in this entire picture — South Fulton and Atlanta have no contract, only relationship-track leads.**
 
-**Separate opportunity at South Fulton, not part of Governance Process Consulting: a small-business/minority-vendor (MBE) database AI system for vendor management.** South Fulton has expressed interest in this kind of system specifically. The operator has a **60%-complete build already in hand**, currently on the back burner / not a current priority. Confirmed this is **a different product from the "custom product" referenced in the Initiative 3 GHL revenue-share dispute** — two distinct things, don't conflate them. Per the "build only on explicit build" rule, this stays parked (no further work, no resumption of the 60%-complete build) until the operator explicitly revisits it — noted here only so it isn't lost as a real, partially-built asset tied to a real city need.
+**Separate opportunity at South Fulton, not part of Governance Process Consulting: a small-business/minority-vendor (MBE) database AI system for vendor management.** South Fulton has expressed interest in this kind of system specifically. The operator has a **60%-complete build already in hand**, currently on the back burner / not a current priority. Confirmed this is **a different product from the "custom product" referenced in the Initiative 3 GHL revenue-share terms** — two distinct things, don't conflate them. Per the "build only on explicit build" rule, this stays parked (no further work, no resumption of the 60%-complete build) until the operator explicitly revisits it — noted here only so it isn't lost as a real, partially-built asset tied to a real city need.
 
 Next actions:
 1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment (report + live demo) → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
@@ -67,16 +67,16 @@ Next actions:
 
 ## Initiative 3 — GHL (sales engine)
 
-Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **Blocker, now clarified: this is a contested revenue-share dispute, not a simple access-recovery task.** The third party holding the account wants 20% of all sales the operator makes through it. **Operator's position, confirmed and held firm: 10% on custom product sold through GHL only, 0% on NuvaBase/TLRW sales** — NuvaBase/TLRW is entirely the operator's own product and isn't subject to her cut at all. Access cannot currently be obtained ("can't get access back at any time") under her terms. This is a negotiation/ownership question, not an IT task — the position is set, what's still open is whether she accepts 10%/custom-only or the operator has to walk and stand up a new account instead.
+Unconfigured for ~9 months; confirmed scope: **CRM + sales funnel + outreach/lead-gen**, all four, not staged. **This is a normal revenue-share business arrangement, not a dispute** — the account holder takes a cut in exchange for the account. **Operator's position, confirmed: 10% on custom product sold through GHL only, 0% on NuvaBase/TLRW sales** — NuvaBase/TLRW is entirely the operator's own product and isn't subject to a cut at all. What's open is just whether the terms land at 10%/custom-only or something else gets agreed.
 
 Concrete build order (this is infrastructure work, not strategy — sequence it so each step is usable on its own):
-0. **Present the 10%/custom-product-only position to her, or walk and stand up a new account if she won't accept it.** Nothing below can start without one of these two outcomes.
+0. **Settle terms (10% on custom product only, 0% on NuvaBase/TLRW) with the account holder.** Nothing below can start until terms are settled.
 1. **Account hygiene** — confirm sub-account/snapshot setup, business profile, domain/email sending identity (this is almost certainly still default since "only the name was put on it").
 2. **CRM pipeline** — one pipeline modeling the actual sales motion for governance consulting (e.g. stages: Identified → Contacted → Discovery Call → Proposal → Pilot → Client).
 3. **Outreach/lead-gen** — sequences targeting the Initiative 2 target list once it exists; don't build outreach automation before the list and buyer persona exist, or it'll automate the wrong message at scale.
 4. **Funnel** — a landing page + booking flow for inbound (e.g. a city official who heard about the consulting and wants a call), distinct from the outbound sequences in step 3.
 
-GHL work depends on step 0 (resolving the revenue-share dispute, or walking away) before anything else here can start — that's now a harder blocker than NuvaBase/TLRW packaging, which can proceed in parallel. Note: pricing for the audit/retainer (Initiative 2) is unrelated to this dispute, which is about the *channel's* cut, not the *product's* price — both are independently undefined right now, don't conflate them.
+GHL work depends on step 0 (settling terms) before anything else here can start — that's now a harder blocker than NuvaBase/TLRW packaging, which can proceed in parallel. Note: pricing for the audit/retainer (Initiative 2) is unrelated to the GHL revenue-share, which is about the *channel's* cut, not the *product's* price — both are independently undefined right now, don't conflate them.
 
 ## "Network" — left open, working interpretation
 
@@ -95,12 +95,12 @@ None of these are built yet — this section is a backlog, not a delivered featu
 
 ## Immediate next actions, in order
 
-1. **Present the held position (10% on custom product only, 0% on NuvaBase/TLRW) to whoever holds the GHL account; walk and stand up a fresh account if she won't accept it** — hard blocker on all of Initiative 3; nothing else there can start until one of these two outcomes happens.
+1. **Settle GHL terms (10% on custom product only, 0% on NuvaBase/TLRW) with the account holder** — hard blocker on all of Initiative 3; nothing else there can start until terms are settled.
 2. **Confirm the South Fulton council member's full name (tentative surname "Rodney"), and find a contact at City of Atlanta** — both still open.
 3. Convert the Montgomery Public School System relationship (confirmed separate from NuvaBase/TLRW) into an actual introduction/pitch into the city or school system.
 4. Write the two-stage municipal offer brief (audit → standing governance retainer) for NuvaBase/TLRW, including rough pricing for both stages (currently undefined), framed as "govern the AI you already run."
 5. Build the GHL-track target list (Initiative 2, step 4) for cities with no existing relationship (Chicago, NYC, others), prioritized by known AI deployments — sequenced after step 1 since it feeds into GHL outreach.
 6. Stand up the GHL CRM pipeline with three contact types (leads / partners / personal) per the "network" note above.
-7. Once the municipal vertical has a working offer brief, sequence which of school districts / small business / legal / medical gets a vertical-specific brief next — note Montgomery Public School System already gives the school-district vertical a head start here.
+7. **Sequenced: small business is next after municipal** (school districts deprioritized — sales/procurement cycles run too long there despite the Montgomery relationship). Operator also flagged "potentially consulting" alongside small business — worth clarifying in a future round whether that means a distinct consulting-vertical offer or is the same Governance Process Consulting motion generalized beyond cities.
 
 Steps 1, 2, 3, and 4 can happen in parallel; they don't depend on each other.

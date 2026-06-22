@@ -41,6 +41,8 @@ Note for accuracy: South Fulton is its own incorporated city in Fulton County, G
 
 **Engagement model, confirmed: staged.** A city's first purchase is a paid audit/assessment (defined scope, defined end), with the standing governance layer (NuvaBase/TLRW wired into the city's actual AI systems on an ongoing basis) as the retainer/upsell that follows if the audit lands. The offer brief (Initiative 1, step 1) needs both stages written, not just the first.
 
+**Audit deliverable, confirmed: written risk report + a live demo.** The audit stage doesn't end with a document alone — it includes a live demonstration of TLRW actually governing one of the city's real AI systems. The demo is what proves the retainer is worth buying, so it has to be built/staged before the first audit is sold (not improvised live against a real city system the first time).
+
 **Market reality, confirmed: this is "govern what you already have," not forward-looking.** Most target cities already have AI deployed (chatbots, case-management systems, etc.) — the pitch is governing existing exposure, not evangelizing future adoption. This is a stronger, more urgent pitch than "get ahead of AI" and should be the headline framing in the offer brief and outreach copy.
 
 **Entry path, confirmed: relationships + GHL outreach in parallel, not procurement/RFP.** Two simultaneous tracks:
@@ -54,11 +56,12 @@ Category renamed: "Blue State cities" → **"Democrat-led cities"** (confirmed) 
 **Separate opportunity at South Fulton, not part of Governance Process Consulting: a small-business/minority-vendor (MBE) database AI system for vendor management.** South Fulton has expressed interest in this kind of system specifically. The operator has a **60%-complete build already in hand**, currently on the back burner / not a current priority. Confirmed this is **a different product from the "custom product" referenced in the Initiative 3 GHL revenue-share dispute** — two distinct things, don't conflate them. Per the "build only on explicit build" rule, this stays parked (no further work, no resumption of the 60%-complete build) until the operator explicitly revisits it — noted here only so it isn't lost as a real, partially-built asset tied to a real city need.
 
 Next actions:
-1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
-2. **Confirm the South Fulton council member's full name and find a contact at City of Atlanta** — both still open.
-3. Convert the Montgomery Public School System relationship into an actual NuvaBase/TLRW introduction or pitch — confirmed separate/unrelated to NuvaBase today, so this is "leverage a warm relationship," not "expand an existing client."
-4. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
-5. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
+1. Define the municipal offer brief (Initiative 1, step 1) as two stages: paid audit/assessment (report + live demo) → standing governance retainer. Lead with "govern the AI you already run," not a future-adoption pitch. Pricing for both stages is **not yet defined** — needs to be worked out as part of this brief.
+2. **Build/stage the live-demo component of the audit** — needs to exist and be rehearsed against a representative AI system (chatbot, case-management, etc.) before the first audit is sold, since "report + demo" is now the confirmed deliverable.
+3. **Confirm the South Fulton council member's full name and find a contact at City of Atlanta** — both still open.
+4. Convert the Montgomery Public School System relationship into an actual NuvaBase/TLRW introduction or pitch — confirmed separate/unrelated to NuvaBase today, so this is "leverage a warm relationship," not "expand an existing client."
+5. Build a target list for the GHL track: city governments (Democrat-led) east of the Mississippi, prioritized by population size and — now confirmed relevant — actual known AI deployments (chatbots, case-management AI, etc.), for cities without an existing relationship (Chicago, NYC, others).
+6. Identify the actual buyer role inside a city government generally (city manager's office, council staff, IT/innovation department) — useful both for the GHL-track target list and to know who the relationship-track contacts should ideally connect you to if they aren't the buyer themselves.
 
 ## Initiative 3 — GHL (sales engine)
 
